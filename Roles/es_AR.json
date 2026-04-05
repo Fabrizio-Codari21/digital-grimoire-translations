@@ -508,7 +508,7 @@
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 16,
-        "otherNightReminder": "El Ludópata apunta a un jugador, y a un personaje en la hoja de personaje. Si es incorrecto, el Ludópata muere.",
+        "otherNightReminder": "El Ludópata apunta a un jugador y a un personaje en la hoja de personaje. Si es incorrecto, el Ludópata muere.",
         "reminders": [
             "Muerto"
         ],
@@ -518,13 +518,13 @@
     },
     {
         "id": "gossip",
-        "name": "Chismosa",
+        "name": "Chusma",
         "edition": "bmr",
         "team": "townsfolk",
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 53,
-        "otherNightReminder": "Si la declaración pública de la Chismosa fue verdadera: elegí un jugador. Ese jugador muere.",
+        "otherNightReminder": "Si la declaración pública de la Chusma fue verdadera: elegí un jugador. Ese jugador muere.",
         "reminders": [
             "Muerto"
         ],
@@ -1979,7 +1979,7 @@
     },
     {
         "id": "lleech",
-        "name": "Sanguijuela",
+        "name": "Sanjigüela",
         "edition": "",
         "team": "demon",
         "firstNight": 22,
